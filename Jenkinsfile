@@ -5,7 +5,7 @@ pipeline {
 
         stage('SCM Checkout') {
             steps {
-                git  url: 'https://github.com/pshankar-git/Java-app-autodeploy-maven.git'
+                git url: 'https://github.com/pshankar-git/Java-app-autodeploy-maven.git'
             }
         }
 
@@ -73,4 +73,4 @@ pipeline {
 
     }
 
-
+}
