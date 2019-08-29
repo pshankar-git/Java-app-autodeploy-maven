@@ -1,0 +1,9 @@
+2019/08/29 10:16:27 [INFO] Terraform version: 0.12.6  
+2019/08/29 10:16:27 [INFO] Go runtime version: go1.12.4
+2019/08/29 10:16:27 [INFO] CLI args: []string{"/bin/terraform", "-version"}
+2019/08/29 10:16:27 [DEBUG] Attempting to open CLI config file: /root/.terraformrc
+2019/08/29 10:16:27 [DEBUG] File doesn't exist, but doesn't need to. Ignoring.
+2019/08/29 10:16:27 [INFO] CLI command args: []string{"version", "-version"}
+2019/08/29 10:16:27 [DEBUG] checking for provider in "."
+2019/08/29 10:16:27 [DEBUG] checking for provider in "/bin"
+2019/08/29 10:16:27 [INFO] Failed to read plugin lock file .terraform/plugins/linux_amd64/lock.json: open .terraform/plugins/linux_amd64/lock.json: no such file or directory
